@@ -1,2 +1,2 @@
-# PairwiseAssociationMining
-Coding a Pairwise Association Algorithm by Scratch
+## Pairwise Association Mining
+#Coding a Pairwise Association Algorithm by Scratch
